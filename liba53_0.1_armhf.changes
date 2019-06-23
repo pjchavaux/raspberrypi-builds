@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 13 Oct 2014 12:42:00 -0700
+Source: liba53
+Binary: liba53
+Architecture: source armhf
+Version: 0.1
+Distribution: unstable
+Urgency: low
+Maintainer: Range Networks, Inc. <info@rangenetworks.com>
+Changed-By: Range Packager <buildmeister@rangenetworks.com>
+Description:
+ liba53     - A5/3 call encryption library
+Changes:
+ liba53 (0.1) unstable; urgency=low
+ .
+     * Initial release
+Checksums-Sha1:
+ beaf8f82eaa7647b809aa1c66ed5df0a229a38e0 561 liba53_0.1.dsc
+ 3cb6676dc582ce0bc7ca73236a0d0aad19dd4000 99487 liba53_0.1.tar.gz
+ b93a289ef9f39cfe393ff4199233c659f31ae9ea 11272 liba53_0.1_armhf.deb
+Checksums-Sha256:
+ 4c9fda572d3a26d5207c47796292ce2843425b3054b11c6b1f30e47433dda9da 561 liba53_0.1.dsc
+ f8c95ae8f9f928ef0c7bafd5ce92382299ef7589a51a2774dc6a447b5f915163 99487 liba53_0.1.tar.gz
+ 44518b6e4f8920e7ea067c0c34c76e9fd97dd2f52fb063ee251371bc49c52f00 11272 liba53_0.1_armhf.deb
+Files:
+ 8f996a336b81fe214ea147644e709eb3 561 comm optional liba53_0.1.dsc
+ e407aca5e85ae3b98da0f7bd1b3a8350 99487 comm optional liba53_0.1.tar.gz
+ 4b719d669d21ca35c7bb919df4f81bfa 11272 comm optional liba53_0.1_armhf.deb

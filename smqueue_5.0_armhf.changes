@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 13 Oct 2014 12:42:00 -0700
+Source: smqueue
+Binary: smqueue
+Architecture: source armhf
+Version: 5.0
+Distribution: untested
+Urgency: low
+Maintainer: Range Networks, Inc. <info@rangenetworks.com>
+Changed-By: Range Packager <buildmeister@rangenetworks.com>
+Description:
+ smqueue    - Range Networks - SMQueue RFC-3428 Store and Forward Server
+Changes:
+ smqueue (5.0) untested; urgency=low
+ .
+     * Test
+Checksums-Sha1:
+ 6130e354c09276ad2f95a0d3bf583f1e0c91c187 654 smqueue_5.0.dsc
+ c79ede6326c6fb00e63c44117356da1a14888141 4827862 smqueue_5.0.tar.gz
+ 72574e13544fb4dc20d784cd425fc1fcf15c36bf 1616548 smqueue_5.0_armhf.deb
+Checksums-Sha256:
+ 5bd444cf74bbc63b54c2cf05534a5c875de132c5717d6dbe4d7fc13bcc3f4e14 654 smqueue_5.0.dsc
+ 84114cfa16af656444318ffd3002f9e2c30529313c67aec5d7488ec1cebd1d0d 4827862 smqueue_5.0.tar.gz
+ 45b447566123ba7a3a79de527d52b016ca79e1954eeee4ee219f3c9c379fdd5e 1616548 smqueue_5.0_armhf.deb
+Files:
+ 392d1a5cf3974422703501bb01e2c712 654 comm optional smqueue_5.0.dsc
+ 02ada2b3329631c8b8526e90a2aa3bd4 4827862 comm optional smqueue_5.0.tar.gz
+ 5093d096dbf947a90f24f0371f8b9203 1616548 comm optional smqueue_5.0_armhf.deb
